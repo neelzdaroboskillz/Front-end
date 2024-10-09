@@ -1,0 +1,6 @@
+cd path/to/your/starter-code
+git init
+git remote add origin https://github.com/your-username/coming-soon-page.git
+git add .
+git commit -m "Initial commit with starter code"
+git push origin master
